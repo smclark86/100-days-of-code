@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: June 10, Saturday — 3.5 hours
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Today I joined FreeCodeCamp (FCC), and did the intro challenges. I also joined CodeAcademy and did 57% of the HTML & CSS tutorials on CodeAcademy.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I've had some minor experience with coding since high school, but have never really committed to learning. After finishing the sections I did today in FCC I realize that I have really only been barely scratching the surface all these years. I've mainly decided to work on learning since I want to pursue a Masters in Nursing Informatics in the future, and figured a background in coding and application design might help me be more successful.
 
 
-### Day 1: June 27, Monday
+### Day 2: June 11, Sunday — 7 hours
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've completed the HTML & CSS, Responsive Design with Bootstrap, Gear Up for Success, and started jQuery on FCC.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I know I shouldn't be going through these too quickly, but since I am somewhat familiar with some of the concepts from HTML & CSS I am learning quickly. I know I'll need to review though. And keep focused on finishing my Bachelors degree...only two more months to go until graduation!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
