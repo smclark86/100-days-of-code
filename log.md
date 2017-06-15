@@ -28,3 +28,10 @@
 
 **Thoughts**: It took forever for me to figure out a problem I had with a div not centering. So frustrating! I was using text-align: center to do it, but after over an hour of messing with it, I moved it up to the parent div (which was a bootstrap grid), and it fixed the problem. I'm guessing that bootstrap grids have priority? I'll have to do some further reading about this. And now I just realized somehow that the page isn't responsive because I didn't set any break points and more... Just because I know basic syntax doesn't mean I know anything yet, right? There's still lots to learn.
 
+
+### Day 5: June 14, Tuesday - 2 hours
+
+**Today's Progress**: Today I worked on and completed the CodeAcademy Make a Website course. It was a nice refresher of some basics, and I feel like I would have experienced less confusion while working on the FCC Tribute Page project if I had done this first. Since I'm mentioning that project, I didn't realize at first that I wasn't supposed to look at the code for how the example was made, so I think I'm going to start the project over from scratch to give myself more practice. I also started the Deploy a Website course on CodeAcademy, but quickly discovered that I should probably learn how to use the command line and Git first. So, I started the command line course, as well. I have a little bit of experience with command line, but not much, and am learning a bunch.
+
+**Thoughts**: Today was nice because I got to review the basics a little more just like I had wanted to yesterday. Good progress today.
+
