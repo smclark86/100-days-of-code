@@ -35,3 +35,11 @@
 
 **Thoughts**: Today was nice because I got to review the basics a little more just like I had wanted to yesterday. Good progress today.
 
+
+### Day 6: June 15, Tuesday - 2 hours
+
+**Today's Progress**: I finished the CodeAcademy Learn the Command Line course and went through the entire Learn Git course, as well.
+
+**Thoughts**: It was interesting learning about the command line and Git today. I have learned a little about the command line in the past, but there's definitely a bunch of info I didn't know about it (which I had expected). The Git course was super interesting. Git and Command Line are things that I wish were suggested as the first thing to learn when it comes to coding. I'm lucky that what I learned super quickly while I was starting this #100DaysOfCode project helped me to use Git without screwing up, or embarrasing myself by initiating a pull request or something to the original master of this project, lol. I'm still don't have 100% understanding of the command line or Git yet, but I'm sure it will just take some more practice.
+
+
