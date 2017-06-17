@@ -29,17 +29,24 @@
 **Thoughts**: It took forever for me to figure out a problem I had with a div not centering. So frustrating! I was using text-align: center to do it, but after over an hour of messing with it, I moved it up to the parent div (which was a bootstrap grid), and it fixed the problem. I'm guessing that bootstrap grids have priority? I'll have to do some further reading about this. And now I just realized somehow that the page isn't responsive because I didn't set any break points and more... Just because I know basic syntax doesn't mean I know anything yet, right? There's still lots to learn.
 
 
-### Day 5: June 14, Tuesday - 2 hours
+### Day 5: June 14, Wednesday - 2 hours
 
 **Today's Progress**: Today I worked on and completed the CodeAcademy Make a Website course. It was a nice refresher of some basics, and I feel like I would have experienced less confusion while working on the FCC Tribute Page project if I had done this first. Since I'm mentioning that project, I didn't realize at first that I wasn't supposed to look at the code for how the example was made, so I think I'm going to start the project over from scratch to give myself more practice. I also started the Deploy a Website course on CodeAcademy, but quickly discovered that I should probably learn how to use the command line and Git first. So, I started the command line course, as well. I have a little bit of experience with command line, but not much, and am learning a bunch.
 
 **Thoughts**: Today was nice because I got to review the basics a little more just like I had wanted to yesterday. Good progress today.
 
 
-### Day 6: June 15, Tuesday - 2 hours
+### Day 6: June 15, Thursday - 2 hours
 
 **Today's Progress**: I finished the CodeAcademy Learn the Command Line course and went through the entire Learn Git course, as well.
 
 **Thoughts**: It was interesting learning about the command line and Git today. I have learned a little about the command line in the past, but there's definitely a bunch of info I didn't know about it (which I had expected). The Git course was super interesting. Git and Command Line are things that I wish were suggested as the first thing to learn when it comes to coding. I'm lucky that what I learned super quickly while I was starting this #100DaysOfCode project helped me to use Git without screwing up, or embarrasing myself by initiating a pull request or something to the original master of this project, lol. I'm still don't have 100% understanding of the command line or Git yet, but I'm sure it will just take some more practice.
+
+
+### Day 7: June 16, Friday - 3 hours
+
+**Today's Progress**: Completed the CodeAcademy Deploy a Website course today. I had heard of Jekyll in passing before, but never really knew what it was. I'll have to read up on it some more. Also fixed a bunch of errors in my #100DaysOfCode log. Apparently, because I had been copying and pasting my daily titles I had changed the dates, but not the days. 
+
+**Thoughts**: I had no idea that you could host pages through Github, and I had no real idea of what Jekyll was. I'm still a bit confused about making changes to the Jekyll site hosted on Github, so I will do some more reading about both of these things. Quite an interesting day!
 
 
