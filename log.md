@@ -50,3 +50,8 @@
 **Thoughts**: I had no idea that you could host pages through Github, and I had no real idea of what Jekyll was. I'm still a bit confused about making changes to the Jekyll site hosted on Github, so I will do some more reading about both of these things. Quite an interesting day!
 
 
+### Day 8: June 17, Saturday - 2 hours
+
+**Today's Progress**: Completed the CodeAcademy Learn Sass course. I'm still quite confused about how to correctly use Sass, but I'm sure that there will be more learning opportunities in the future. I'm not sure if I would want to use it very much right now because I am still learning basic CSS, so may once I am more proficient in CSS I will begin implementing Sass. I also started the Learn Responsive Design course on CodeAcademy. I think after I am finished with this course I will devote my time to completing the FCC Basic Front End Development Projects. Hopefully, I will have processed more of what I have learned recently and know better how to implement that information to complete those basic projects on my own. 
+
+**Thoughts**: I already touched on this, but I am still pretty confused with how to implement Sass. I would like to learn more about it in the future though, because I can really appreciate how it can cut down on having to repeat code in different places. I'm looking forward to finishing the Learn Responsive Design course because I think that by then I will have built a pretty solid foundation of knowledge with which to complete the FCC projects.
