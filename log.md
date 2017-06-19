@@ -55,3 +55,11 @@
 **Today's Progress**: Completed the CodeAcademy Learn Sass course. I'm still quite confused about how to correctly use Sass, but I'm sure that there will be more learning opportunities in the future. I'm not sure if I would want to use it very much right now because I am still learning basic CSS, so may once I am more proficient in CSS I will begin implementing Sass. I also started the Learn Responsive Design course on CodeAcademy. I think after I am finished with this course I will devote my time to completing the FCC Basic Front End Development Projects. Hopefully, I will have processed more of what I have learned recently and know better how to implement that information to complete those basic projects on my own. 
 
 **Thoughts**: I already touched on this, but I am still pretty confused with how to implement Sass. I would like to learn more about it in the future though, because I can really appreciate how it can cut down on having to repeat code in different places. I'm looking forward to finishing the Learn Responsive Design course because I think that by then I will have built a pretty solid foundation of knowledge with which to complete the FCC projects.
+
+
+### Day 9: June 18, Sunday - 2 hours
+
+**Today's Progress**: I finished the Learn Responsive Design course from CodeAcademy today, and I also started Colt Steele's Web Developer Bootcamp. 
+
+**Thoughts**: Responsive design is quite interesting. I have customized pre-made Wordpress sites in the past that utilized this, but I enoyed learning about how it works and how to implement it from scratch. In regard to the bootcamp, I figured since it seems so popular, and with the claim of so many of the people that have successfully completed this bootcamp being able to land jobs that it must be a really good course. I don't plan on doing any work as a web developer any time soon because of my current career as a nurse (except maybe for fun), but it can't hurt to help solidify and hone what I am currently learning. Today was a busy day overall, and I almost wasn't able to complete the two hours for today, but I'm glad I was able to keep up the progress.
+
