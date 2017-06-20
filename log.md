@@ -63,3 +63,10 @@
 
 **Thoughts**: Responsive design is quite interesting. I have customized pre-made Wordpress sites in the past that utilized this, but I enoyed learning about how it works and how to implement it from scratch. In regard to the bootcamp, I figured since it seems so popular, and with the claim of so many of the people that have successfully completed this bootcamp being able to land jobs that it must be a really good course. I don't plan on doing any work as a web developer any time soon because of my current career as a nurse (except maybe for fun), but it can't hurt to help solidify and hone what I am currently learning. Today was a busy day overall, and I almost wasn't able to complete the two hours for today, but I'm glad I was able to keep up the progress.
 
+
+### Day 10: June 19, Monday - 2 hours
+
+**Today's Progress**: I worked on the Web Developer Bootcamp.
+
+**Thoughts**: I have to admit that the information that Colt includes in his bootcamp——even though it is still only covering super basic stuff at the moment——has helped me to understand the why's and how's of HTML better than both the CodeAcademy and FCC HTML courses did. For example, I was still a little unclear on block-level and inline elements, and now I totally understand them. Similarly, I now understand the difference between divs and spans. So far, I am liking this bootcamp, but I have to play most of it at 1.25x speed. Otherwise I'd feel like I'm spending too much time just sitting around and watching videos instead of making progress.
+
