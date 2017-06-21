@@ -68,7 +68,7 @@
 
 **Today's Progress**: I worked on the Web Developer Bootcamp.
 
-**Thoughts**: I have to admit that the information that Colt includes in his bootcamp——even though it is still only covering super basic stuff at the moment——has helped me to understand the why's and how's of HTML better than both the CodeAcademy and FCC HTML courses did. For example, I was still a little unclear on block-level and inline elements, and now I totally understand them. Similarly, I now understand the difference between divs and spans. So far, I am liking this bootcamp, but I have to play most of it at 1.25x speed. Otherwise I'd feel like I'm spending too much time just sitting around and watching videos instead of making progress.
+**Thoughts**: I have to admit that the information that Colt includes in his bootcamp—even though it is still only covering super basic stuff at the moment—has helped me to understand the why's and how's of HTML better than both the CodeAcademy and FCC HTML courses did. For example, I was still a little unclear on block-level and inline elements, and now I totally understand them. Similarly, I now understand the difference between divs and spans. So far, I am liking this bootcamp, but I have to play most of it at 1.25x speed. Otherwise I'd feel like I'm spending too much time just sitting around and watching videos instead of making progress.
 
 
 ### Day 11: June 20, Tuesday - 2.5 hours
