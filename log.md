@@ -77,3 +77,10 @@
 
 **Thoughts**: I knew very little about forms and inputs before, and it's interesting to learn about some baisc ways that they are created and used. I'm looking forward to the ways they can be styled through CSS later in the bootcamp. I've been trying to find some info on whether there is a specific standardized order of attributes for a given element. It appears that there is, but I haven't found a good resource that gives any solid advice for what that order should be. Will keep looking.
 
+
+### Day 12: June 21, Wednesday - 2 hours
+
+**Today's Progress**: Learned more about CSS today, and also some things about the Chrome DevTools that I didn't realize were possible.
+
+**Thoughts**: One of today's lessons had the best explanation for Hexadecimal (Base-16) I've ever heard. I had a pretty good idea of how it worked before, but now I understand it a lot better. The Chrome DevTools can do so much more than I thought! I have never really looked at any documentation before, so I'll have to do that. I know I'll be using it a lot more often now.
+
