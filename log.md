@@ -84,3 +84,10 @@
 
 **Thoughts**: One of today's lessons had the best explanation for Hexadecimal (Base-16) I've ever heard. I had a pretty good idea of how it worked before, but now I understand it a lot better. The Chrome DevTools can do so much more than I thought! I have never really looked at any documentation before, so I'll have to do that. I know I'll be using it a lot more often now.
 
+	
+### Day 13: June 22, Thursday - 8 hours
+
+**Today's Progress**: Learned about inheritance and specificity in CSS, using and modifying text (and text properties) and fonts in CSS, completed an exercise for the bootcamp that had me create a tic-tac-toe board using CSS, and completed an exercise that had me create a minimalist photo gallery web page. I also learned about float properties in CSS, as well. And lastly, I finished my first basic front-end project for FCC—the Build a Tribute page.
+
+**Thoughts**: Amazed at what is possible with inheritance and specificity in CSS. I know I've barely scratched the surface, but I had never really understood inheritance and specificity, so I'm really happy with what I learned today. The tic-tac-toe and photo gallery exercises have been the most fun I have had learning CSS, by far! I got mixed up between classes and id's at first in the tic-tac-toe exercise, so I had to rework it to simplify the CSS. While the photo gallery exercise was a code-along, I tried to figure out as much as I could before seeing the solution. It was quite challenging, but I enjoyed the exercise a lot. The Build a Tribute page took several hours to do, and I hope that I organized my HTML and CSS acceptably. I'm so confused about how to best organize and structure the CSS especially...I feel like it's like a jumbled mess.
+
