@@ -91,3 +91,10 @@
 
 **Thoughts**: Amazed at what is possible with inheritance and specificity in CSS. I know I've barely scratched the surface, but I had never really understood inheritance and specificity, so I'm really happy with what I learned today. The tic-tac-toe and photo gallery exercises have been the most fun I have had learning CSS, by far! I got mixed up between classes and id's at first in the tic-tac-toe exercise, so I had to rework it to simplify the CSS. While the photo gallery exercise was a code-along, I tried to figure out as much as I could before seeing the solution. It was quite challenging, but I enjoyed the exercise a lot. The Build a Tribute page took several hours to do, and I hope that I organized my HTML and CSS acceptably. I'm so confused about how to best organize and structure the CSS especially...I feel like it's like a jumbled mess.
 
+
+### Day 14: June 23, Friday - 2 hours
+
+**Today's Progress**: Made a simple photo gallery page and a blog page for bootcamp exercises. I also started learning more about Bootstrap in the bootcamp.
+
+**Thoughts**: I can definitely tell I'm improving in knowledge and skill, even though I know I'm still very much a beginner. The exercises that I worked on today taught me some new things, but I also was able to figure out how to code the marjority of the projects from scratch before seeing the solutions so much faster than I would have been able to last week. While learning about Bootstrap today, I realized that the reason I was confused about Bootstrap on Day 4 is because I didn't have the library installed locally, lol. That's why learning is always a good thing!
+
