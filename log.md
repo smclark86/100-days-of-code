@@ -96,5 +96,12 @@
 
 **Today's Progress**: Made a simple photo gallery page and a blog page for bootcamp exercises. I also started learning more about Bootstrap in the bootcamp.
 
-**Thoughts**: I can definitely tell I'm improving in knowledge and skill, even though I know I'm still very much a beginner. The exercises that I worked on today taught me some new things, but I also was able to figure out how to code the marjority of the projects from scratch before seeing the solutions so much faster than I would have been able to last week. While learning about Bootstrap today, I realized that the reason I was confused about Bootstrap on Day 4 is because I didn't have the library installed locally, lol. That's why learning is always a good thing!
+**Thoughts**: I can definitely tell I'm improving in knowledge and skill, even though I know I'm still very much a beginner. The exercises that I worked on today taught me some new things, but I also was able to figure out how to code the majority of the projects from scratch before seeing the solutions so much faster than I would have been able to last week. While learning about Bootstrap today, I realized that the reason I was confused about Bootstrap on Day 4 is because I didn't have the library installed locally, lol. That's why learning is always a good thing!
+
+
+### Day 15: June 24, Saturday - 2 hours
+
+**Today's Progress**: Learned some more about some Bootstrap basics today.
+
+**Thoughts**: I had no idea that you could either install Bootstrap locally, or just link to it via CDN. Bootstrap just seemed so daunting before starting to learn about it in the bootcamp, but I'm excited to learn more. It definitely looks like quite a powerful tool. I had some trouble at first while messing with a navbar, and I finally figured out that it was because I had the closing tag for the navbar-header div in the wrong place. Definitely got some practice Googling for answers today!
 
