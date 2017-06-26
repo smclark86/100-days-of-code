@@ -105,3 +105,10 @@
 
 **Thoughts**: I had no idea that you could either install Bootstrap locally, or just link to it via CDN. Bootstrap just seemed so daunting before starting to learn about it in the bootcamp, but I'm excited to learn more. It definitely looks like quite a powerful tool. I had some trouble at first while messing with a navbar, and I finally figured out that it was because I had the closing tag for the navbar-header div in the wrong place. Definitely got some practice Googling for answers today!
 
+
+### Day 16: June 25, Sunday - 3.5 hours
+
+**Today's Progress**: Learned about Bootstrap's navbars and grid system. Also made a simple photo gallery using Bootstrap for bootcamp exercise. I also started working on a landing page using Bootstrap for another exercise.
+
+**Thoughts**: Finally beginning to understand some more about Bootstrap. I was really confused before, so I'm happy to find that I'm beginning to grasp it.
+
