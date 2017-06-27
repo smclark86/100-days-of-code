@@ -112,3 +112,10 @@
 
 **Thoughts**: Finally beginning to understand some more about Bootstrap. I was really confused before, so I'm happy to find that I'm beginning to grasp it.
 
+
+### Day 17: June 26, Monday - 5 hours
+
+**Today's Progress**: Finished landing page exercise.
+
+**Thoughts**: I was able to code about 95% of it before seeing the solution. Most of the syntax matched the solution, too, even though I know that isn't 100% necessary. So, I can definitely tell that I'm learning and retaining all this info! And it's true, Google is my friend. Though I can't figure out why I need so many !important mentions in CSS when I post to CodePen.
+
