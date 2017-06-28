@@ -119,3 +119,10 @@
 
 **Thoughts**: I was able to code about 95% of it before seeing the solution. Most of the syntax matched the solution, too, even though I know that isn't 100% necessary. So, I can definitely tell that I'm learning and retaining all this info! And it's true, Google is my friend. Though I can't figure out why I need so many !important mentions in CSS when I post to CodePen.
 
+
+### Day 18: June 27, Tuesday - 3.5 hours
+
+**Today's Progress**: Began work on portfolio page for FCC front-end project, and started learning Javascript in bootcamp!
+
+**Thoughts**: Javascript seems pretty cool from what I've learned so far—which I know is just barely scratching the surface. I am excited to learn more!
+
