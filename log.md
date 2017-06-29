@@ -126,3 +126,10 @@
 
 **Thoughts**: Javascript seems pretty cool from what I've learned so far—which I know is just barely scratching the surface. I am excited to learn more!
 
+
+### Day 19: June 28, Wednesday - 2 hours
+
+**Today's Progress**: Worked on some basic Javascript exercises today.
+
+**Thoughts**: I think I understand the basic operators, logic, and conditionals, but I can't get my scripts to run the way I am expecting them to all the time. I'm especially having a problem when I include multiple conditions in an if statement. Will keep working on it.
+
