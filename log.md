@@ -133,3 +133,10 @@
 
 **Thoughts**: I think I understand the basic operators, logic, and conditionals, but I can't get my scripts to run the way I am expecting them to all the time. I'm especially having a problem when I include multiple conditions in an if statement. Will keep working on it.
 
+
+### Day 20: June 29, Thursday - 2 hours
+
+**Today's Progress**: More Javascript exercises today. Also started learning about loops.
+
+**Thoughts**: I want to understand when to use simply separate if statements versus if and else if statements together. Maybe I was just overthinking the problem? Also, I need to review modulo. I'm still unclear about its use, especially in respect to determining odd or even numbers, and when something is divisible by something else.
+
