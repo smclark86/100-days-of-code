@@ -140,3 +140,10 @@
 
 **Thoughts**: I want to understand when to use simply separate if statements versus if and else if statements together. Maybe I was just overthinking the problem? Also, I need to review modulo. I'm still unclear about its use, especially in respect to determining odd or even numbers, and when something is divisible by something else.
 
+
+### Day 21: June 30, Friday - 1 hour
+
+**Today's Progress**: More Javascript exercises today. Also learned about for loops and touched a little on functions.
+
+**Thoughts**: It's interesting to see the similarity between while and for loops, but I like how for loops are more condensed and seemingly more to the point. Excited to learn more about how and why each are used. Functions seem quite powerful, and I'm looking forward to learning more about them.
+
