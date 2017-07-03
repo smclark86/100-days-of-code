@@ -154,3 +154,10 @@
 
 **Thoughts**: I did an exercise where I had to calculate the factorial of a number, but I don't know if my confusion stems from a lack of understanding in the math or in how the Javascript is written. Will have to review this a little, even though I don't really understand how something like knowing how to calculate factorials will be important in the future at all. For this exercise and one that had me replace characters I used Google, and was able to find what I needed quickly. 
 
+
+### Day 23: July 2, Sunday - 1 hour
+
+**Today's Progress**: Learned about JS higher order functions, arrays, push and pop, shift and unshift, indexOf, and slice. Started working on JS array exercise.
+
+**Thoughts**: Very interesting stuff today. Arrays sort of seem similar to a database. I'm guessing that's what it is? Looking forward to learning more about this tomorrow.
+
