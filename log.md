@@ -161,3 +161,10 @@
 
 **Thoughts**: Very interesting stuff today. Arrays sort of seem similar to a database. I'm guessing that's what it is? Looking forward to learning more about this tomorrow.
 
+
+### Day 24: July 3, Monday - 1.25 hours
+
+**Today's Progress**: More JS arrays exercises. Started learning about array iteration.
+
+**Thoughts**: One of today's exercises had me do new things with the array I had created in one of yesterday's exercises using the information I learned today about array iteration. I was able to figure out most of the code before seeing the solution. I feel quite good about today's learning.
+
