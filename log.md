@@ -168,3 +168,17 @@
 
 **Thoughts**: One of today's exercises had me do new things with the array I had created in one of yesterday's exercises using the information I learned today about array iteration. I was able to figure out most of the code before seeing the solution. I feel quite good about today's learning.
 
+
+### Day 25: July 4, Tuesday - 0 hours
+
+**Today's Progress**: Wasn't able to see bootcamp videos because huge thunderstorm knocked out electricity.
+
+**Thoughts**: I think I'll add days at the end of the 100 days to make up missing days just to hold myself accountable for the full 100 days.
+
+
+### Day 26: July 5, Wednesday - 2 hours
+
+**Today's Progress**: Reviewed past couple days of JS info.
+
+**Thoughts**: Missing a single day really messed with my ability to remember the last couple days worth of learning. I will do my best to make sure I don't miss any more days, even though this time it was unavoidable due to losing electricity. I'm excited to really understand this info so that missing a day won't have such a bad effect on my learning. More sleep would probably help too, lol. I did realize that the reason I confused about modulo last week was because I forgot that I was using it in conjunction with a boolean, but forgot that because of the boolean it was only true or false.
+
