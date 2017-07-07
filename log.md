@@ -182,3 +182,10 @@
 
 **Thoughts**: Missing a single day really messed with my ability to remember the last couple days worth of learning. I will do my best to make sure I don't miss any more days, even though this time it was unavoidable due to losing electricity. I'm excited to really understand this info so that missing a day won't have such a bad effect on my learning. More sleep would probably help too, lol. I did realize that the reason I confused about modulo last week was because I forgot that I was using it in conjunction with a boolean, but forgot that because of the boolean it was only true or false.
 
+
+### Day 27: July 6, Thursday - 2 hours
+
+**Today's Progress**: Finished reviewing info from past couple days. Working on array and function exercises.
+
+**Thoughts**: I'm so confused with some exercises that are having me creating a function that takes an array as an argument. Been Googling a bunch, but haven't found an answer that works yet. I will keep trying to figure this out tomorrow.
+
