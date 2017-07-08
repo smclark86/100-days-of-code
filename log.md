@@ -189,3 +189,10 @@
 
 **Thoughts**: I'm so confused with some exercises that are having me creating a function that takes an array as an argument. Been Googling a bunch, but haven't found an answer that works yet. I will keep trying to figure this out tomorrow.
 
+
+### Day 28: July 7, Friday - 1.25 hours
+
+**Today's Progress**: Array and function exercise.
+
+**Thoughts**: I really don't understand how, even after reviewing the past couple days of learning, that I couldn't figure out the exercise on my own today. It all started with having to create a function that could print the values of an array (any array entered) in reverse. I spent over an hour trying to figure it out, Googled like crazy, and still had no idea how to do it. So, I had to see the solution, but I'm understanding it a little better now. I was so close to figuring it out though! I guess failure is part of learning, but it still sucks. I will keep working to improve!
+
