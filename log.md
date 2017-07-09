@@ -196,3 +196,10 @@
 
 **Thoughts**: I really don't understand how, even after reviewing the past couple days of learning, that I couldn't figure out the exercise on my own today. It all started with having to create a function that could print the values of an array (any array entered) in reverse. I spent over an hour trying to figure it out, Googled like crazy, and still had no idea how to do it. So, I had to see the solution, but I'm understanding it a little better now. I was so close to figuring it out though! I guess failure is part of learning, but it still sucks. I will keep working to improve!
 
+
+### Day 29: July 8, Saturday - 1 hour
+
+**Today's Progress**: Another array and function exercise.
+
+**Thoughts**: I had difficulty with the exercise today also. I still haven't looked at the solution, but I think I'm getting close to figuring the exercise out on my own. I am needing to create a function that can determine if all values in an array are identical or not. It sounds simple, but for some reason I'm having difficulty figuring it out. I will keep working on it tomorrow.
+
