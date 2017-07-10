@@ -203,3 +203,10 @@
 
 **Thoughts**: I had difficulty with the exercise today also. I still haven't looked at the solution, but I think I'm getting close to figuring the exercise out on my own. I am needing to create a function that can determine if all values in an array are identical or not. It sounds simple, but for some reason I'm having difficulty figuring it out. I will keep working on it tomorrow.
 
+
+### Day 30: July 9, Sunday - 1 hour
+
+**Today's Progress**: The same array and function exercise.
+
+**Thoughts**: I was really hard-headed today, and I wanted to figure out this exercise on my own. I feel like I wasted my hour today though, because I don't think I've gotten any closer to the solution. I will just look at the solution tomorrow so that I can move onto the next thing and not make any progress. Though I guess practice is progress in a way.
+
