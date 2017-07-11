@@ -210,3 +210,10 @@
 
 **Thoughts**: I was really hard-headed today, and I wanted to figure out this exercise on my own. I feel like I wasted my hour today though, because I don't think I've gotten any closer to the solution. I will just look at the solution tomorrow so that I can move onto the next thing and not make any progress. Though I guess practice is progress in a way.
 
+
+### Day 31: July 10, Monday - 1 hour
+
+**Today's Progress**: Third array and function exercise.
+
+**Thoughts**: One month under my belt! But, I swear I must have accidentally skipped a lesson or something in the bootcamp, because I'm having such a difficult time figuring these array and function exercises out! I think I'm going to review the past few lessons again even though I won't really be moving forward in the lessons right now. I don't feel right moving onto the next lesson yet—not until I have a better basic understanding of arrays and functions and why the solutions to these exercises work the way that they do.
+
