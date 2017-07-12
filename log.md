@@ -217,3 +217,10 @@
 
 **Thoughts**: One month under my belt! But, I swear I must have accidentally skipped a lesson or something in the bootcamp, because I'm having such a difficult time figuring these array and function exercises out! I think I'm going to review the past few lessons again even though I won't really be moving forward in the lessons right now. I don't feel right moving onto the next lesson yet—not until I have a better basic understanding of arrays and functions and why the solutions to these exercises work the way that they do.
 
+
+### Day 32: July 11, Tuesday - 1 hour
+
+**Today's Progress**: Started reviewing array and function lessons.
+
+**Thoughts**: I'm wanting to take my time going through this review, as I only spent a day reviewing last week, and I was still confused afterward. I think it will be better for me, overall, to go at a slower pace than I was going. I've received some nice encouragement in regard to my logs on Twitter and GitHub today, too, which was nice! It helped me to remember that learning is sometimes a slow process, but that if I stick with it I will begin to have better understanding than I would otherwise have had.
+
