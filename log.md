@@ -224,3 +224,10 @@
 
 **Thoughts**: I'm wanting to take my time going through this review, as I only spent a day reviewing last week, and I was still confused afterward. I think it will be better for me, overall, to go at a slower pace than I was going. I've received some nice encouragement in regard to my logs on Twitter and GitHub today, too, which was nice! It helped me to remember that learning is sometimes a slow process, but that if I stick with it I will begin to have better understanding than I would otherwise have had.
 
+
+### Day 33: July 12, Wednesday - 1 hour
+
+**Today's Progress**: Reviewed a couple previous lessons.
+
+**Thoughts**: Took my time today in reviewing a couple previous lessons. Not too eventful, but I guess it helped me to have a better understanding of the concepts the lessons covered.
+
