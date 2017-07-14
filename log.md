@@ -231,3 +231,9 @@
 
 **Thoughts**: Took my time today in reviewing a couple previous lessons. Not too eventful, but I guess it helped me to have a better understanding of the concepts the lessons covered.
 
+### Day 34: July 13, Thursday - 1 hour
+
+**Today's Progress**: Reviewed a couple lessons.
+
+**Thoughts**: Finally figured out why I was struggling with a function from the other day where I was trying to create a function that determined if all the values in an array were identical or not. It turns out, the reason it didn't work is because I was using console.log instead of return. The only thing I'm confused about now is why the function doesn't work when I call it in the JS file, but does work when I call it manually in the Chrome console.
+
