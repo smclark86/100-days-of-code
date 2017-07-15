@@ -237,3 +237,10 @@
 
 **Thoughts**: Finally figured out why I was struggling with a function from the other day where I was trying to create a function that determined if all the values in an array were identical or not. It turns out, the reason it didn't work is because I was using console.log instead of return. The only thing I'm confused about now is why the function doesn't work when I call it in the JS file, but does work when I call it manually in the Chrome console.
 
+
+### Day 35: July 14, Friday - 1 hour
+
+**Today's Progress**: Reviewed a couple function and array lessons.
+
+**Thoughts**: While I didn't have any big realizations today like I did yesterday, it was good to review this information again. I plan to move on to new lessons tomorrow or the day after, and then review again periodically.
+
