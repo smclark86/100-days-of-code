@@ -244,3 +244,10 @@
 
 **Thoughts**: While I didn't have any big realizations today like I did yesterday, it was good to review this information again. I plan to move on to new lessons tomorrow or the day after, and then review again periodically.
 
+
+### Day 36: July 15, Saturday - 1 hour
+
+**Today's Progress**: Analyzed and reviewed a function and array exercise.
+
+**Thoughts**: I wanted to slowly work through one of the exercises that I finished last week to make sure I am really understanding the structure and function of the code. I think that it was a helpful way to gauge understanding of why a function works the way it does, so I will probably try this again with another problem tomorrow. I think I just need to review all the basic JS again like loops, logic, etc. to help make sure I am not going so fast that I make a mistake similar to a couple days ago where I confused console.log and return.
+
