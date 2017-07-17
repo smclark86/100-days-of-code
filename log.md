@@ -251,3 +251,10 @@
 
 **Thoughts**: I wanted to slowly work through one of the exercises that I finished last week to make sure I am really understanding the structure and function of the code. I think that it was a helpful way to gauge understanding of why a function works the way it does, so I will probably try this again with another problem tomorrow. I think I just need to review all the basic JS again like loops, logic, etc. to help make sure I am not going so fast that I make a mistake similar to a couple days ago where I confused console.log and return.
 
+
+### Day 37: July 16, Sunday - 1 hour
+
+**Today's Progress**: Analyzed and reviewed another function and array exercise.
+
+**Thoughts**: I'm still a little confused about this one even though I saw the solution last week and have gone over it once since then. I am not sure what it is that confuses me about this function. It is the isUniform function that I mentioned a few times last week. Will look at the solution video again tomorrow to see if I've missed something in the explanation that is causing my confusion.
+
