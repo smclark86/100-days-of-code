@@ -258,3 +258,10 @@
 
 **Thoughts**: I'm still a little confused about this one even though I saw the solution last week and have gone over it once since then. I am not sure what it is that confuses me about this function. It is the isUniform function that I mentioned a few times last week. Will look at the solution video again tomorrow to see if I've missed something in the explanation that is causing my confusion.
 
+
+### Day 38: July 17, Monday - 1 hour
+
+**Today's Progress**: Analyzed and reviewed solution to function an array exercise from yesterday.
+
+**Thoughts**: I finally understand this one! My confusion originally stemmed from a lack of understanding between console.log and return, but then I forgot that my starting position in the array when comparing each item needed to start at index of 1 and not 0. I can't believe this exercise confused me so much, but I guess that's why reviewing is necessary and helpful in learning.
+
