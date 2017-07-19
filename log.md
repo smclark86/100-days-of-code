@@ -265,3 +265,10 @@
 
 **Thoughts**: I finally understand this one! My confusion originally stemmed from a lack of understanding between console.log and return, but then I forgot that my starting position in the array when comparing each item needed to start at index of 1 and not 0. I can't believe this exercise confused me so much, but I guess that's why reviewing is necessary and helpful in learning.
 
+
+### Day 39: July 18, Tuesday - 1 hour
+
+**Today's Progress**: New array and function problem today.
+
+**Thoughts**: This is my first new problem since last week. Even with the review I am feeling a little confused. I feel like this exercise should be easy to figure out, but I haven't tried Googling yet, which was maybe a bit over-confident, as I have not had to do an exercise like this before. This one has me creating a function that sums the values in an array. I think maybe the reason I can't think clearly is just because I haven't been getting enough sleep. I have been pulling several all-nighters recently as I am now in the last 4 weeks of my BSN program, and am working daily on my capstone project. I just barely had the willpower to work on an hour of coding practice before bed, so I will continue working on this same problem tomorrow. 
+
