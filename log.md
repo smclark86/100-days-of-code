@@ -272,3 +272,10 @@
 
 **Thoughts**: This is my first new problem since last week. Even with the review I am feeling a little confused. I feel like this exercise should be easy to figure out, but I haven't tried Googling yet, which was maybe a bit over-confident, as I have not had to do an exercise like this before. This one has me creating a function that sums the values in an array. I think maybe the reason I can't think clearly is just because I haven't been getting enough sleep. I have been pulling several all-nighters recently as I am now in the last 4 weeks of my BSN program, and am working daily on my capstone project. I just barely had the willpower to work on an hour of coding practice before bed, so I will continue working on this same problem tomorrow. 
 
+
+### Day 40: July 19, Wednesday - 0 hours
+
+**Today's Progress**: Up all night working on capstone project, so no time to code.
+
+**Thoughts**: I hate to miss a day of coding practice, but I am really trying to get this capstone project finished. I was up all night working on that, and I need to sleep. The up-side is that there are only 4 weeks left until I'm finished with my BSN degree! I'll make up this day at the end of the 100 days.
+
