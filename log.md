@@ -279,3 +279,10 @@
 
 **Thoughts**: I hate to miss a day of coding practice, but I am really trying to get this capstone project finished. I was up all night working on that, and I need to sleep. The up-side is that there are only 4 weeks left until I'm finished with my BSN degree! I'll make up this day at the end of the 100 days.
 
+
+### Day 41: July 20, Thursday - 0 hours
+
+**Today's Progress**: Another all-nighter working on capstone project. No coding today.
+
+**Thoughts**: I can't wait to be finished with this project so that I can get back to coding. I will do my best to do an hour a day still, but the capstone is the priority.
+
