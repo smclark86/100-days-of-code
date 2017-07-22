@@ -286,3 +286,10 @@
 
 **Thoughts**: I can't wait to be finished with this project so that I can get back to coding. I will do my best to do an hour a day still, but the capstone is the priority.
 
+
+### Day 42: July 21, Friday - 1 hour
+
+**Today's Progress**: Finally got to work on another function and array exercise.
+
+**Thoughts**: I've been super busy with school, but I'm glad that I got to take some time to code today. I feel rusty already, and it's only been a couple days with no coding. At first, I couldn't remember how a for loop worked, and then figured it out with some Googling. After figuring out how to make the function work, I watched the solution video, and learned that I could have used a forEach instead. I tried that out, as well, and it works great. Looking forward to learning more tomorrow.
+
