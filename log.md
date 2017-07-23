@@ -293,3 +293,10 @@
 
 **Thoughts**: I've been super busy with school, but I'm glad that I got to take some time to code today. I feel rusty already, and it's only been a couple days with no coding. At first, I couldn't remember how a for loop worked, and then figured it out with some Googling. After figuring out how to make the function work, I watched the solution video, and learned that I could have used a forEach instead. I tried that out, as well, and it works great. Looking forward to learning more tomorrow.
 
+
+### Day 43: July 22, Saturday - 0 hours
+
+**Today's Progress**: No time to code today, unfortunately.
+
+**Thoughts**: I hate missing days, but I was up most of the night working on my capstone project again, so will have to make up this day.
+
