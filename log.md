@@ -307,3 +307,10 @@
 
 **Thoughts**: The exercise required me to create a function that determined the largest—maximum—value in an array. I had no idea where to begin, but figured that I could use some sort of Math JS object (even though I didn't know that's what it was called, as I haven't learned about JS objects yet, and have only seen them in passing online), so I went to MDN to see what I could find. The solution I got works using Math.max.apply, but I am not sure how or why it works. I did a little more searching and couldn't find a clear explanation of what the null argument is for in Math.max.apply. What is really interesting is that the solution video for the exercise used a For loop, and stated that a forEach loop could be used, as well. I think using Math is, of course, faster and—probably—better, though I don't know if I could explain why exactly. Just for fun, I made a version of the exercise using a For looop, and I pieced together how to create the forEach version using a previous exercise as a quick refresher of how to structure a forEach, and they both work nicely. I also did a little research into why semicolons are used to separate JS statements—and after expressions—but not after declarations. That helped boost my understanding a bit, too.
 
+
+### Day 45: July 24, Monday - 1 hour
+
+**Today's Progress**: Learned a little more about forEach, and briefly touched on prototypes.
+
+**Thoughts**: Kind of confused with some of the forEach info, but it's nice to be learning some new code. JS objects look really interesting, and I'm excited to learn more. I also learned about similarities and differences between array and object syntax. And finally, I started working on an object exercise. The learning shall continue!
+
