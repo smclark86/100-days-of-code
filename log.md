@@ -310,7 +310,7 @@
 
 ### Day 45: July 24, Monday - 1 hour
 
-**Today's Progress**: Learned a little more about forEach, and briefly touched on prototypes.
+**Today's Progress**: Learned a little more about forEach, briefly touched on prototypes, and started learning about objects.
 
 **Thoughts**: Kind of confused with some of the forEach info, but it's nice to be learning some new code. JS objects look really interesting, and I'm excited to learn more. I also learned about similarities and differences between array and object syntax. And finally, I started working on an object exercise. The learning shall continue!
 
