@@ -314,3 +314,10 @@
 
 **Thoughts**: Kind of confused with some of the forEach info, but it's nice to be learning some new code. JS objects look really interesting, and I'm excited to learn more. I also learned about similarities and differences between array and object syntax. And finally, I started working on an object exercise. The learning shall continue!
 
+
+### Day 46: July 25, Tuesday - 1 hour
+
+**Today's Progress**: Worked on a JS object exercise.
+
+**Thoughts**: This exercise is pretty interesting so far, but I haven't figured this exercise out quite yet. I thought that because I had a rough idea so far of how to structure an object, that putting one inside of an array shouldn't be too difficult. For some reason, though, I am getting an unexpected identifier error in the console in the second object—but not the first—even though they are identical. I tried not to Google too much yet because I thought yesterday's lesson might give me enough clues, but I might have to look for more info before I can compelete it.
+
