@@ -321,3 +321,10 @@
 
 **Thoughts**: This exercise is pretty interesting so far, but I haven't figured this exercise out quite yet. I thought that because I had a rough idea so far of how to structure an object, that putting one inside of an array shouldn't be too difficult. For some reason, though, I am getting an unexpected identifier error in the console in the second object—but not the first—even though they are identical. I tried not to Google too much yet because I thought yesterday's lesson might give me enough clues, but I might have to look for more info before I can compelete it.
 
+
+### Day 47: July 26, Wednesday - 0 hours
+
+**Today's Progress**: Busy with capstone project again, so no coding today.
+
+**Thoughts**: Only a little over two weeks until finished with my BSN degree though!
+
