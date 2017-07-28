@@ -328,3 +328,10 @@
 
 **Thoughts**: Only a little over two weeks until finished with my BSN degree though!
 
+
+### Day 48: July 27, Thursday - 0 hours
+
+**Today's Progress**: Working on capstone project again.
+
+**Thoughts**: Can't wait to finish this.
+
