@@ -335,3 +335,10 @@
 
 **Thoughts**: Can't wait to finish this.
 
+
+### Day 49: July 28, Friday - 0 hours
+
+**Today's Progress**: Traveling all day, so unable to code.
+
+**Thoughts**: Will make today up.
+
