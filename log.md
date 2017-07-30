@@ -342,3 +342,10 @@
 
 **Thoughts**: Will make today up.
 
+
+### Day 50: July 29, Saturday - 1 hour
+
+**Today's Progress**: Continued working on the object exercise from Tuesday.
+
+**Thoughts**: I haven't figured it out yet, but I know I'm getting closer! This is the first exercise where I've had to put objects inside of an array, and then use the information in the array. It is quite challenging even though I thought it would be easy at first.
+
