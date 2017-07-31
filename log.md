@@ -349,3 +349,9 @@
 
 **Thoughts**: I haven't figured it out yet, but I know I'm getting closer! This is the first exercise where I've had to put objects inside of an array, and then use the information in the array. It is quite challenging even though I thought it would be easy at first.
 
+### Day 51: July 30, Sunday - 0 hours
+
+**Today's Progress**: Busy preparing for job interview, so no coding today.
+
+**Thoughts**: Things are getting crazy what with capstone project work and an interview going on, but hopefully I'll be able to get back to a more decent coding schedule soon!
+
