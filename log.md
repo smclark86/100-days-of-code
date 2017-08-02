@@ -349,9 +349,24 @@
 
 **Thoughts**: I haven't figured it out yet, but I know I'm getting closer! This is the first exercise where I've had to put objects inside of an array, and then use the information in the array. It is quite challenging even though I thought it would be easy at first.
 
+
 ### Day 51: July 30, Sunday - 0 hours
 
 **Today's Progress**: Busy preparing for job interview, so no coding today.
 
 **Thoughts**: Things are getting crazy what with capstone project work and an interview going on, but hopefully I'll be able to get back to a more decent coding schedule soon!
+
+
+### Day 52: July 31, Monday - 0 hours
+
+**Today's Progress**: Capstone project presentation preparation.
+
+**Thoughts**: Nearing the end of my capstone project, so hopefully I won't have so many zero days in the near future. The job interview went well today, though, so we'll see what happens with that.
+
+
+### Day 53: August 1, Tuesday - 0 hours
+
+**Today's Progress**: Final prep for capstone presentation.
+
+**Thoughts**: Finally giving my capstone presentation tomorrow morning. While it doesn't mean that I'm done with the project yet, it does mean that I am finished with a significant portion of the project.
 
