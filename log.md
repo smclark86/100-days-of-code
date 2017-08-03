@@ -370,3 +370,10 @@
 
 **Thoughts**: Finally giving my capstone presentation tomorrow morning. While it doesn't mean that I'm done with the project yet, it does mean that I am finished with a significant portion of the project.
 
+
+### Day 54: August 2, Wednesday - 1 hour
+
+**Today's Progress**: Continued work on object exercise again from Saturday.
+
+**Thoughts**: This one is really confusing me. I watched the solution video (and the solution is simple, yet complex), but I am still having a SyntaxError = Unexpected identifier problem on one line even though the code is exactly the same as the solution. I will have to review this again tomorrow to figure out why this is happening.
+
