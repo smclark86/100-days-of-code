@@ -377,3 +377,10 @@
 
 **Thoughts**: This one is really confusing me. I watched the solution video (and the solution is simple, yet complex), but I am still having a SyntaxError = Unexpected identifier problem on one line even though the code is exactly the same as the solution. I will have to review this again tomorrow to figure out why this is happening.
 
+
+### Day 55: August 3, Thursday - 1 hour
+
+**Today's Progress**: Continued with object exercise again.
+
+**Thoughts**: Spent my entire hour trying to figure out why I'm having the SyntaxError. Maybe I'm not searching Google correctly? Or maybe I just need more sleep.
+
