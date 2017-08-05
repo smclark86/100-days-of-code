@@ -384,3 +384,10 @@
 
 **Thoughts**: Spent my entire hour trying to figure out why I'm having the SyntaxError. Maybe I'm not searching Google correctly? Or maybe I just need more sleep.
 
+
+### Day 56: August 4, Friday - 0 hours
+
+**Today's Progress**: Busy working on school projects.
+
+**Thoughts**: Almost finished! I can't wait to be back on a more normal coding schedule.
+
