@@ -391,3 +391,10 @@
 
 **Thoughts**: Almost finished! I can't wait to be back on a more normal coding schedule.
 
+
+### Day 57: August 5, Saturday - 0 hours
+
+**Today's Progress**: Working on finals for one of my classes.
+
+**Thoughts**: I hate having so many zero days. I may just start the 100 days over again after I finish making up all these missed days. 
+
