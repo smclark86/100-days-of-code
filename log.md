@@ -398,3 +398,10 @@
 
 **Thoughts**: I hate having so many zero days. I may just start the 100 days over again after I finish making up all these missed days. 
 
+
+### Day 58: August 6, Sunday - 0 hours
+
+**Today's Progress**: Working on final group project for one of my classes.
+
+**Thoughts**: Will make up this missed day.
+
