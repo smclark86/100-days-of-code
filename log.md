@@ -405,3 +405,10 @@
 
 **Thoughts**: Will make up this missed day.
 
+
+### Day 59: August 7, Monday - 0 hours
+
+**Today's Progress**: Working on finals.
+
+**Thoughts**: I can see the light at the end of the tunnel!
+
