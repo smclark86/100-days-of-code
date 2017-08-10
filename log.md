@@ -412,3 +412,17 @@
 
 **Thoughts**: I can see the light at the end of the tunnel!
 
+
+### Day 60: August 8, Tuesday - 0 hours
+
+**Today's Progress**: More finals.
+
+**Thoughts**: Can't wait to code more.
+
+
+### Day 61: August 9, Wednesday - 1 hour
+
+**Today's Progress**: Finally figured out syntax error on function exercise! I also reviewed the past couple videos about functions to refresh my memory since I haven't coded in several days.
+
+**Thoughts**: I can't believe it took me so long to figure out what was wrong with my code. I knew there was a syntax error, but it was staring me right in the face the entire time: I mas missing two commas. I guess that's part of learning though, so I'll keep it in mind for the future and move onto the next exercise. Even though I reviewed some videos regarding functions, I think I need to review my code for this exercise more, because I'm having trouble understanding exactly what each portion of the code does. This is a very good example of why it's not good to miss so many days in a row, but I'll hopefully be back to a regular coding schedule again soon.
+
