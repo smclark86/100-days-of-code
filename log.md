@@ -426,3 +426,24 @@
 
 **Thoughts**: I can't believe it took me so long to figure out what was wrong with my code. I knew there was a syntax error, but it was staring me right in the face the entire time: I mas missing two commas. I guess that's part of learning though, so I'll keep it in mind for the future and move onto the next exercise. Even though I reviewed some videos regarding functions, I think I need to review my code for this exercise more, because I'm having trouble understanding exactly what each portion of the code does. This is a very good example of why it's not good to miss so many days in a row, but I'll hopefully be back to a regular coding schedule again soon.
 
+
+### Day 62: August 10, Thursday - 0 hours
+
+**Today's Progress**: Travelling today, so couldn't code.
+
+**Thoughts**: Can't wait to learn more!
+
+
+### Day 63: August 11, Friday - 0 hours
+
+**Today's Progress**: Travelling again today, so no coding.
+
+**Thoughts**: I can't wait to have some more time after finals are completed to spend at least a few hours a day learning. I feel like I have not made any progress recently.
+
+
+### Day 64: August 12, Saturday - 1 hour
+
+**Today's Progress**: Started previous exercise from scratch to see if I could do it from memory. 
+
+**Thoughts**: I am a little confused because I have missed so many days, so I will work on it again tomorrow.
+
