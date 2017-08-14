@@ -447,3 +447,10 @@
 
 **Thoughts**: I am a little confused because I have missed so many days, so I will work on it again tomorrow.
 
+
+### Day 65: August 13, Sunday - 1 hour
+
+**Today's Progress**: Started over on JS Object lessons to review.
+
+**Thoughts**: Since I have missed several days in a row recently, I need a refresher. I tried recreating the previous object exercise from scratch by memory, but I couldn't figure it out, so I think a review would really help.
+
