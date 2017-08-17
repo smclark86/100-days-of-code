@@ -454,3 +454,24 @@
 
 **Thoughts**: Since I have missed several days in a row recently, I need a refresher. I tried recreating the previous object exercise from scratch by memory, but I couldn't figure it out, so I think a review would really help.
 
+
+### Day 66: August 14, Monday - 0 hours
+
+**Today's Progress**: Completely forgot about coding today.
+
+**Thoughts**: I'm kinda feeling burned out on school and coding. I think I just really need a break and some rest.
+
+
+### Day 67: August 15, Tuesday - 0 hours
+
+**Today's Progress**: Decided to take a break from working on projects today.
+
+**Thoughts**: I think another day of rest has helped me to refresh a little. I will add today and yesterday to my list of make-up days.
+
+
+### Day 68: August 16, Wednesday - 1 hour
+
+**Today's Progress**: Reviewed some JS Object lessons today.
+
+**Thoughts**: I really needed that past couple days of rest, but I am glad I got to review some lessons today. 
+
