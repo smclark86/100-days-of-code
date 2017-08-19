@@ -475,3 +475,17 @@
 
 **Thoughts**: I really needed that past couple days of rest, but I am glad I got to review some lessons today. 
 
+
+### Day 69: August 17, Thursday - 1 hour
+
+**Today's Progress**: Continued lesson review today.
+
+**Thoughts**: I really needed this review. 
+
+
+### Day 70: August 18, Friday - 0 hours
+
+**Today's Progress**: No coding today.
+
+**Thoughts**: Busy day, will make up today.
+
