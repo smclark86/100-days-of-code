@@ -490,14 +490,14 @@
 **Thoughts**: Busy day, will make up today.
 
 
-### Day 72: August 19, Saturday - 0 hours
+### Day 71: August 19, Saturday - 0 hours
 
 **Today's Progress**: Traveling today, so no coding.
 
 **Thoughts**: Hopefully I can code tomorrow.
 
 
-### Day 73: August 20, Sunday - 1 hour
+### Day 72: August 20, Sunday - 1 hour
 
 **Today's Progress**: JS object lessons review.
 
