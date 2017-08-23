@@ -503,3 +503,17 @@
 
 **Thoughts**: I hope to work on the JS object exercise from before sometime this week. Hopefully I will have better understanding of it this time around.
 
+
+### Day 73: August 21, Monday - 0 hours
+
+**Today's Progress**: Preparing for job interview, so no coding.
+
+**Thoughts**: Was planning to code, but got a call to schedule interview, so I'm quite excited.
+
+
+### Day 74: August 22, Tuesday - 0 hours
+
+**Today's Progress**: Preparing for job interview, so no coding.
+
+**Thoughts**: Sad to not be able to code today, but excited about interview tomorrow.
+
