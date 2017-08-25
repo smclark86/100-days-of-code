@@ -517,3 +517,17 @@
 
 **Thoughts**: Sad to not be able to code today, but excited about interview tomorrow.
 
+
+### Day 75: August 23, Wednesday - 0 hours
+
+**Today's Progress**: No coding today.
+
+**Thoughts**: Hope to code tomorrow.
+
+
+### Day 76: August 24, Thursday - 1 hour
+
+**Today's Progress**: More review.
+
+**Thoughts**: As I get closer to 100 days, I am slowly realizing that I will probably have to try again in devoting 100 days to coding because I have been so busy with school and haven't made as much progress as I had hoped to by now. I am happy to have made the progress that I have so far though—the knowledge I have now is priceless!
+
