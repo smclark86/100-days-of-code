@@ -531,3 +531,24 @@
 
 **Thoughts**: As I get closer to 100 days, I am slowly realizing that I will probably have to try again in devoting 100 days to coding because I have been so busy with school and haven't made as much progress as I had hoped to by now. I am happy to have made the progress that I have so far though—the knowledge I have now is priceless!
 
+
+### Day 77: August 25, Friday - 0 hours
+
+**Today's Progress**: No coding today.
+
+**Thoughts**: Took the day off.
+
+
+### Day 78: August 26, Saturday - 0 hours
+
+**Today's Progress**: No coding today.
+
+**Thoughts**: I had time to code today, but I totally forgot to before going to sleep.
+
+
+### Day 79: August 27, Sunday - 0 hours
+
+**Today's Progress**: No coding today.
+
+**Thoughts**: Busy all day job hunting, so no chance to code.
+
