@@ -552,3 +552,10 @@
 
 **Thoughts**: Busy all day job hunting, so no chance to code.
 
+
+### Day 80: August 28, Monday - 0 hours
+
+**Today's Progress**: Working on project for class.
+
+**Thoughts**: Working on major paper, so no chance to code today.
+
