@@ -559,3 +559,24 @@
 
 **Thoughts**: Working on major paper, so no chance to code today.
 
+
+### Day 81: August 29, Tuesday - 0 hours
+
+**Today's Progress**: Preparing for another interview.
+
+**Thoughts**: No coding again. I can't wait to finally be able to code a little again.
+
+
+### Day 82: August 30, Wednesday - 0 hours
+
+**Today's Progress**: Interview prep.
+
+**Thoughts**: More interview prep, so no coding.
+
+
+### Day 83: August 31, Thursday - 0 hours
+
+**Today's Progress**: Interview today, so no coding.
+
+**Thoughts**: The interview today went well, and I also turned in my final project of my program, so sometime soon I should be getting my final grade and will have my BSN!
+
