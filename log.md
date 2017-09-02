@@ -580,3 +580,11 @@
 
 **Thoughts**: The interview today went well, and I also turned in my final project of my program, so sometime soon I should be getting my final grade and will have my BSN!
 
+
+### Day 84: September 1, Friday - 0 hours
+
+**Today's Progress**: Will try again.
+
+**Thoughts**: This is the first time in this 100 Days of Code attempt that I have had 7 days in a row with no coding. Even though I am so close to the end of the 100 days, I believe that it is in my best interest to just start over again at a future date in order to not cheat myself of the learning and progress I could get from more consistent coding. It has been quite an adventure so far, though, especially while completing my degree. I have learned a lot, and will surely use what I have learned to enhance future learning.
+
+
